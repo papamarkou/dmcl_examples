@@ -1,0 +1,3 @@
+#!/bin/bash
+
+qsub benchmark_run.sge
